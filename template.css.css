@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+}
+
+.box {
+  flex: 1; /* This ensures equal width */
+  padding: 20px;
+  text-align: center;
+  
+}
